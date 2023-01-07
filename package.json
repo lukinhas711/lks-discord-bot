@@ -1,0 +1,23 @@
+{
+  "name": "lks-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukinhas711/lks-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "lucas.ribeiro711@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukinhas711/lks-discord-bot/issues"
+  },
+  "homepage": "https://github.com/lukinhas711/lks-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
